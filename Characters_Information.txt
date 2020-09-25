@@ -1,0 +1,5 @@
+lol;0;0;0;0;0;lol.jpg
+Gorila(Tierra);1800;500;110;230;0;mono.jpeg
+Arana(Agua);1400;400;130;200;0;arana.jpeg
+Oso(Fuego);1400;700;95;156;0;oso.jpeg
+Fantasma(Aire);1250;800;50;200;0;fan.jpeg
