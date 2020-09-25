@@ -1,0 +1,7 @@
+1 a b 123 aba 0
+2 b asd 123456 basa 1
+100 juan bolanos 3 juano 3
+1000 chris sanchez 4 cris12 3
+6 karen hurtado 10237 karen65 1
+7 oscar haro 109776 oca 0
+175589652314 Gabriel Puyol 1752689 Gabo 1

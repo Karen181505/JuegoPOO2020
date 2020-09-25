@@ -1,0 +1,7 @@
+lol;0;0;0;0;0;lol.jpg
+Dragon;1;500;110;230;0;dragon_fuego.jpg
+Salamander;1400;400;130;200;0;elementalFuego.jpg
+Poseidon;1400;700;95;156;0;agua.jpg
+Sirena;1250;800;50;200;0;elementalAgua.jpg
+Dumbo;950;400;140;200;0;aire.png
+PapaPum;1200;600;100;200;0;papa.png
